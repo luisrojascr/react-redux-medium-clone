@@ -1,5 +1,10 @@
 # ![React + Redux Example App](project-logo.png)
 
+## Thinkster Project
+
+I made the project following Thinkster React Redux real world steps, learning Redux.  
+
+
 ## Getting started
 
 You can view a live demo over at https://react-redux.realworld.io/
